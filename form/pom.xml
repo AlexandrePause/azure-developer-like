@@ -77,7 +77,7 @@
               <subscriptionId>16cfc856-c2f1-4103-80c3-8deba1743963</subscriptionId>
               <resourceGroup>trainee-i178ww-28_rg</resourceGroup>
               <appName>wbtrainee28</appName>
-              <pricingTier>P1v3</pricingTier>
+              <pricingTier>P1v2</pricingTier>
               <region>westeurope</region>
               <appServicePlanName>ASP-traineei178ww28rg-8290</appServicePlanName>
               <appServicePlanResourceGroup>trainee-i178ww-28_rg</appServicePlanResourceGroup>
